@@ -21,7 +21,7 @@
             'sales_profit/static/src/xml/sales_profit_select.xml'
         ],
     },
-    'images': ['static/description/banner.jpg'],
+    'images': ['static/description/banner.gif'],
     'demo': [],
     'installable': True,
     'auto_install': False,
