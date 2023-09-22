@@ -1,6 +1,6 @@
 {
-    'name': 'Sale order list view - Sales Profit and Loss Preview.',
-    'summary': """Sale order list view - Sales Profit and Loss Preview.""",
+    'name': 'Compare Sale orders - Sales Profit and Loss Preview.',
+    'summary': """Compare Sale orders - Sales Profit and Loss Preview.""",
     'version': '15.0',
     'license': "LGPL-3",
     'description': """Sale order list view - Sales Profit and Loss Preview.Sale order preview including - Margin by line items, Total Margin, Invoice details, Invoice dues,Payment dues.""",
